@@ -94,10 +94,6 @@ The following KPIs were developed:
 
 These KPIs provide an overview of total revenue, product sales volume, transaction activity, and average sales performance.
 
-**KPI Analysis:**
-
-![KPI Analysis](assets/KPI-Analysis.png)
-
 ---
 
 ## Step 3: Sales Performance Analysis
@@ -113,9 +109,6 @@ The analysis includes:
 
 The day-wise sales analysis helps identify high-performing and low-performing days.
 
-**Sales Performance Analysis:**
-
-![Sales Performance](assets/Sales-Performance.png)
 
 ---
 
@@ -131,9 +124,6 @@ The analysis includes:
 
 This analysis helps understand customer satisfaction patterns and identify areas that may require improvement.
 
-**Customer Ratings Analysis:**
-
-![Customer Ratings](assets/Customer-Ratings.png)
 
 ---
 
@@ -150,9 +140,6 @@ The payment methods include:
 
 The analysis helps identify the most commonly used payment methods and understand customer transaction behavior.
 
-**Payment Method Analysis:**
-
-![Payment Method Analysis](assets/Payment-Method.png)
 
 ---
 
@@ -169,13 +156,6 @@ The analysis includes:
 
 This analysis helps compare brand performance and identify mobile models contributing significantly to overall sales.
 
-**Brand Performance Analysis:**
-
-![Brand Analysis](assets/Brand-Analysis.png)
-
-**Mobile Model Sales Analysis:**
-
-![Mobile Model Analysis](assets/Mobile-Model-Analysis.png)
 
 ---
 
@@ -191,9 +171,6 @@ The analysis includes:
 
 This visualization helps identify cities contributing to overall mobile sales and understand regional sales distribution.
 
-**Geographical Sales Analysis:**
-
-![Geographical Analysis](assets/Geographical-Analysis.png)
 
 ---
 
