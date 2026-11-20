@@ -34,7 +34,7 @@ The dataset was used to analyze overall sales performance, customer preferences,
 
 - **Dataset:**Mobile Sales Dataset
 - **Format:** CSV / Excel
-- **Source:** Add your dataset source link here.
+- **Source:** Online Resource
 
 ---
 
