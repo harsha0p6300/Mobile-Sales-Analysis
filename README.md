@@ -182,7 +182,7 @@ The dashboard includes monthly slicers to enable users to explore sales performa
 
 **Power BI Dashboard:**
 
-![iQOO Mobile Sales Dashboard](assets/iQOO-Dashboard.png)
+![iQOO Mobile Sales Dashboard](https://github.com/harsha0p6300/Mobile-Sales-Analysis/blob/main/Mobile%20sales%20Dashboard.jpg?raw=true)
 
 ---
 
