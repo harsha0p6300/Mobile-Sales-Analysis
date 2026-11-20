@@ -75,7 +75,7 @@ The objective was to understand the dataset and prepare it for further analysis 
 
 **Data Overview:**
 
-![Data Overview](assets/Data-Overview.png)
+![Data Overview](https://github.com/harsha0p6300/Mobile-Sales-Analysis/blob/main/Sample%20Data.png?raw=true)
 
 ---
 
